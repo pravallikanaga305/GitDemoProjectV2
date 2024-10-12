@@ -18,6 +18,7 @@ public class Main {
            System.out.println("merge2 example commit");
         System.out.println("reset2 example commit-1");
 
+        System.out.println("merge conflict-1");
 
 
 
