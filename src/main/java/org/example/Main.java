@@ -9,6 +9,8 @@ public class Main {
         System.out.println("hi this is second commit");
         
         System.out.println("fetch example commit");
+
+           System.out.println("merge example commit");
         
 
     }
