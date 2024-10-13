@@ -25,8 +25,10 @@ public class Main {
          System.out.println("merge conflict-2");
         System.out.println("first commit in login branch");
 
+
         
  System.out.println("both are equal in login branch");
+
 
 
         
