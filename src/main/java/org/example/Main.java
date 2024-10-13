@@ -21,6 +21,7 @@ public class Main {
 
 
         System.out.println("merge conflict-1");
+         System.out.println("merge conflict-2");
 
 
 
