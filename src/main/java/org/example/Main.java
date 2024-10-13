@@ -23,7 +23,6 @@ public class Main {
         System.out.println("merge conflict-1");
         System.out.println("merge conflict-3");
          System.out.println("merge conflict-2");
-        System.out.println("first commit in login branch");
 
 
 
